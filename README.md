@@ -1,0 +1,2 @@
+# KurumiChan
+Discord bot
