@@ -25,7 +25,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.function.Consumer;
 
-import static org.valdi.kurumi.anilist.AniListConstants.CONTEXT;
 import static org.valdi.kurumi.myanimelist.MyAnimeListConstants.*;
 
 public class MyAnimeListAuthenticator {
